@@ -7,9 +7,17 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/1rxKGzecTEMuv9ie0dptKrkhkrfMmJDGP/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/anish-xavier-xalxo/",
-  twitter: "https://twitter.com/RishavChanda",
-  insta: "https://www.instagram.com/rishav_chanda/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+};
+
+export const Certification = {
+  name: "Anish Xavier Xalxo",
+  roles: ["Full Stack Developer", "Cloud Engineer", "Programmer"],
+  description:
+    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+  github: "https://github.com/1905305",
+  resume:
+    "https://drive.google.com/file/d/1rxKGzecTEMuv9ie0dptKrkhkrfMmJDGP/view?usp=sharing",
+  linkedin: "https://www.linkedin.com/in/anish-xavier-xalxo/",
 };
 
 export const skills = [
@@ -175,7 +183,7 @@ export const experiences = [
       "CSS",
       "JavaScript",
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
+    doc: "https://drive.google.com/file/d/1k5IfvnBxeBn_BO9nyF0Nsbcy9nWeD51Z/view?usp=sharing",
   },
   {
     id: 1,
