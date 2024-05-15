@@ -77,8 +77,8 @@ const index = () => {
       <Wrapper>
         <Title>Certification</Title>
         <Desc>
-          My work experience as a software engineer and working on different
-          companies and projects.
+          Acquire a prestigious technical certification, showcasing expertise in
+          contemporary technologies
         </Desc>
         <TimelineSection>
           <Timeline>
