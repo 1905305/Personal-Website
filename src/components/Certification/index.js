@@ -78,7 +78,7 @@ const index = () => {
         <Title>Certification</Title>
         <Desc>
           Acquire a prestigious technical certification, showcasing expertise in
-          contemporary technologies
+          contemporary technologies and methodologies.
         </Desc>
         <TimelineSection>
           <Timeline>
